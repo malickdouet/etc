@@ -29,4 +29,4 @@ git pull alias develop
 docker-compose up -d
 ```
  ## License 
-All rights reserved, © KFC 2018
+All rights reserved, © ETC 2018
