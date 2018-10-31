@@ -1,6 +1,6 @@
-# HDKA
+# ETC
 
- This project goal is to learn/teach people how to work on a collaborative project.
+This project goal is to learn/teach people how to work on a collaborative project.
 The project is running with docker and git is used for versioning.
  
  ## Quick install
